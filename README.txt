@@ -1,0 +1,2 @@
+MMO Companion V3
+Upload these six public app files to the GitHub Pages repository root. Do not upload the separate private guide JSON or original database. Open the published site in Safari, add to Home Screen, then open the installed app, tap Guide and import the private JSON from Files. Guide and profile progress stay in local storage. Export profile backups and retain the private guide JSON. Source: PokeMMO QuestTracker Remastered / MightyBoxer community walkthrough (linked in app). No live game sync.
